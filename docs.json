@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Codex",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "基础入门",
             "pages": [
               "index",
               "quickstart",
