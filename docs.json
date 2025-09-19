@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Codex",
+        "tab": "NBA",
         "groups": [
           {
-            "group": "开始使用",
+            "group": "劳资协议",
             "pages": [
               "index",
               "install",
